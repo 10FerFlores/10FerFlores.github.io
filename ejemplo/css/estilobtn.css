@@ -1,0 +1,24 @@
+.section1{
+    width: 1400px;
+    height: 200px;
+    background-color: black;
+}
+
+.btn1{
+    background-color: chartreuse;
+    width: 90px;
+    height: 40px;
+    background-color:darkgreen;
+    float: right;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.btn2{
+    background-color: brown;
+    width: 90px;
+    height: 40px;
+    background-color: aquamarine;
+    float: right;
+    margin-top: 80px;
+}

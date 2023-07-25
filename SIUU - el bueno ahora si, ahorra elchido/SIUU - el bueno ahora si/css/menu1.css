@@ -1,0 +1,27 @@
+.menu1{
+    width: 90%;
+    padding: 5px;
+    margin: auto;
+    background-color:rgb(12, 126, 88);
+    text-align: center;
+}
+.menu1 li{
+    list-style: none; /*quita las viñetas */
+    display: inline-block; /* lista en linea horizontal*/
+   
+    
+}
+.menu1 a{
+    text-decoration: none; /* quita el subrayado del enlace*/
+    color: bisque;
+    padding: 20px;
+    margin: 20px;
+}
+
+.menu1 li a:hover{ /*cuando el cursor pase encima*/
+    background-color: rgb(171, 185, 43);
+    color: rgb(168, 73, 18);
+
+
+
+}

@@ -1,0 +1,62 @@
+.principal{
+    width: 90%;
+    height: 100%;
+    left: 0; 
+    right: 0;
+    background-color: black;
+    margin: 5%;
+  
+}
+
+.header{
+    background-color: aqua;
+    margin: 5%;
+    padding: 50px;
+    height: 45px;
+}
+
+.main{
+    background-color: bisque;
+    height: 90%;
+    margin: 5%;
+}
+.box1{
+    width: 50%;
+    height: 200px;
+    margin: 5%;
+    background-color: crimson;
+
+}
+.box2{
+    width: 50%;
+    height: 300px;
+    margin: 5%;
+    background-color: brown;
+
+}
+.box3{
+    float:right;
+    width: 30%;
+    height:540px;
+    margin: 5%;
+    top:-620px;
+    position: relative;
+    background-color: chartreuse;
+}
+
+.footer{
+    background-color: brown;
+    margin: 5%;
+    padding: 10px;
+    height: 45px;
+}
+
+.section{
+    background-color:coral;
+    width: 80%;
+    height: 30%;
+    margin: 20px;
+    padding: 20px;
+
+
+}
